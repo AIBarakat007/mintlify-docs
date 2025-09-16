@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Autocalls",
+  "name": "XX7 AI Autocalls",
   "logo": {
     "dark": "/resources/logo/dark.png",
     "light": "/resources/logo/light.png"
@@ -24,14 +24,14 @@
   },
   "topbarLinks": [{
     "name": "Home",
-    "url": "https://autocalls.ai"
+    "url": "https://app.xx7ai.com/"
   }, {
     "name": "Support",
-    "url": "https://autocalls.ai/contact"
+    "url": "https://www.xx7ai.com/contact"
   }],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://app.autocalls.ai"
+    "url": "https://app.xx7ai.com/"
   },
   "anchors": [{
     "name": "No-Code Automation",
